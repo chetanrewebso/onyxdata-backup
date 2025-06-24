@@ -1,0 +1,140 @@
+[18-Jun-2024 06:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[03-Jul-2024 05:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[03-Jul-2024 06:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[03-Jul-2024 07:00:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[03-Jul-2024 07:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[03-Jul-2024 07:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[05-Jul-2024 07:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[05-Jul-2024 12:23:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[05-Jul-2024 21:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[05-Jul-2024 21:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[05-Jul-2024 21:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[06-Jul-2024 11:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[06-Jul-2024 11:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[06-Jul-2024 13:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[07-Jul-2024 06:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[07-Jul-2024 06:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[07-Jul-2024 06:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[07-Jul-2024 15:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 06:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 08:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 10:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 12:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 12:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 14:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[08-Jul-2024 15:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[09-Jul-2024 00:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[09-Jul-2024 13:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[09-Jul-2024 16:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[10-Jul-2024 09:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[11-Jul-2024 02:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[20-Jul-2024 14:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[29-Aug-2024 22:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[26-Sep-2024 07:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[27-Sep-2024 02:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
+[19-Dec-2024 22:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onyxdata/public_html/wp-content/themes/onyxdata-child/index.php on line 17
